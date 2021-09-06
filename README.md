@@ -1,5 +1,6 @@
 # pin-matcher-solution-JS
-Its a pin matching simple apps using css, bootstrap &amp; javascript
+
+Its a pin matching simple apps using css, bootstrap &amp; javascript.
 
 
 ## Author
